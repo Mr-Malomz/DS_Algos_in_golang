@@ -1,4 +1,4 @@
-package dsalgosingolang
+package lib
 
 func NumInList(list []int, num int) bool {
 	for _, idx := range list {
